@@ -1,2 +1,2 @@
-                                Aplicativo de delivery
-                                    Entrega+
+Aplicativo de delivery
+  Entrega+
